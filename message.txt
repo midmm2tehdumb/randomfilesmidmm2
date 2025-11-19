@@ -1,8 +1,8 @@
 [
   {
-    "comment": "// This model is based on the official 777-300ER, and therefore may not be used for any purposes outside of GeoFS. No textures from this aircraft may be taken and/or edited without permission from AF267, Luca B, Spice9, Coolpilot11, Jeffa, Mirage, or Plane2222222. Liveries made from wrongfully obtained texture maps will not be allowed to be submitted through LiverySelector and will be taken down immediately.",
+    "comment": "// This model is based on the official 777-300ER, and therefore may not be used for any purposes outside of GeoFS. No textures from this aircraft may be taken and/or edited without permission from AF267, Luca B, Spice9, Coolpilot11, Jeffa, Mirage, or Plane2222222. Liveries made from wrongfully obtained texture maps will not be allowed to be submitted through LiverySelector and will be taken down immediately.   midmm2 editted this, based from the 777-9X",
     "forceZup": false,
-    "mass": 300000,
+    "mass": 280000,
     "tensorFactor": 0.05,
     "dragFactor": 15,
     "gearTravelTime": 18,
@@ -24,9 +24,9 @@
       "VS0": 41,
       "VS": 47,
       "VFE": 85,
-      "V1": 153,
-      "VR": 156,
-      "V2": 162,
+      "V1": 149,
+      "VR": 152,
+      "V2": 158,
       "VREF": 157,
       "VNO": 330,
       "VMO": 330,
